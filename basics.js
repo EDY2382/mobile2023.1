@@ -1,0 +1,9 @@
+var nome1 = 'joao'; //string
+nome1 = 'mateus';//string
+nome1= 86411105; //number
+nome1-= ['pedro','123' ,'felipe',{ nome:'mateus'}, [1.765]]
+let nome2 ='jose';//string
+nome2 = 'felipe';//string
+const salario = 1300;//number
+const pincel = {cor:'azul', fabricante: 'pilot', espessura: '1.45'} 
+const caixa = { formato: 'quadrada',itens:[pincel]}
